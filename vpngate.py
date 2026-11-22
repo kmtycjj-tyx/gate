@@ -58,20 +58,45 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
-    "saas.sin.fan:443",
-    "www.mfyx.cn:443",
-    "cf.nyanya.moe:443",
-    "cf.877774.xyz:443",
-    "cdn.204910.best:443",
-    "cdn.ctn32.us.kg:443",
-    "p.etime.vip:443",
-    "cmcc.vvvv.ee:443",
-    "cfsaas.080112.xyz:443",
-    "cdn.aneko.ink:443",
-    "hk.cf.3666888.xyz:443",
-    "best.hzample.kdns.fr:443",
-    "ctsg.cfyx.aliyun.20237737.xyz:443",
-    "china-unicom.cname.cloudflare.468123.xyz:443",
+whatismyipaddress.com:443
+www.glassdoor.com:443
+www.gov.se:443
+gur.gov.ua:443
+mfa.gov.ua:443
+www.udemy.com:443
+www.udacity.com:443
+www.visa.co.jp:443
+cf.090227.xyz:443
+www.wto.org:443
+www.visa.cn:443
+www.shopify.com:443
+fbi.gov:443
+www.zsu.gov.ua:443
+www.visa.com.sg:443
+www.4chan.org:443
+store.ubi.com:443
+cloudflare.cfgo.cc:443
+cloudflare.cnae.top:443
+www.gov.ua:443
+saas.sin.fan:443
+store.ubi.com:443
+www.ipget.net:443
+icook.tw:443
+dnew.cc:443
+ip.sb:443
+openai.com:443
+www.iplocation.net:443
+nexusmods.com:443
+yapuyapu.com:443
+www.hugedomains.com:443
+time.is:443
+russia.com:443
+cfsaas.080112.xyz:443
+iplocation.io:443
+singapore.com:443
+www.whatismyip.com:443
+icook.hk:443
+www.okcupid.com:443
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
